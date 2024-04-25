@@ -2,6 +2,7 @@
 Power BI Assignment
 
 Make sheet 1 page navigation sheet. Each button will represent each day.
+
 **Day-2**
 
 2.	Drag the Country from the region_data then in the report view and mention the name of the visual in the text box and add the labels in the visual. DONE

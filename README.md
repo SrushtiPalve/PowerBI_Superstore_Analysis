@@ -5,16 +5,16 @@ Make sheet 1 page navigation sheet. Each button will represent each day.
 
 **Day-2**
 
-2.	Drag the Country from the region_data then in the report view and mention the name of the visual in the text box and add the labels in the visual. DONE
+2.	Drag the Country from the region_data then in the report view and mention the name of the visual in the text box and add the labels in the visual. 
 
 **Day-3** 
 
-3.	Create a basic map visual on the report page using the Global superstore and Use the region column in the slicer visual to get interacted with the map visual. DONE
+3.	Create a basic map visual on the report page using the Global superstore and Use the region column in the slicer visual to get interacted with the map visual. 
 
 **Day-4**
 
 4.Create a basic scatter plot using sales and Profit information and represent it (refer to region column), which helps identify the highest green color and lowest sales red color. 
-VISUAL MADE. FORMATTING NEEDED
+
 
 **Day-5**
 
